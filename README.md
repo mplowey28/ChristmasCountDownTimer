@@ -6,7 +6,7 @@ A web app that shows the time left until Christmas day.
 # Screenshots
 
 <p align="center">
-<img src="xmastimer.png" width="400">
+<img src="xmastimer.png">
 </p>
 
 # Tech/framework used
